@@ -1,0 +1,9 @@
+{
+  "coc.preferences.extensionUpdateCheck": "daily",
+  "coc.preferences.formatOnType": false,
+  "coc.preferences.formatOnSaveFiletypes": [],
+  "flutter.lsp.debug": true,
+  "flutter.lsp.initialization.closingLabels": false,
+  "flutter.lsp.initialization.suggestFromUnimportedLibraries": false,
+  "flutter.provider.enableSnippet": false
+}
